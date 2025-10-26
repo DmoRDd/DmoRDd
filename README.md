@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! I'm DmoRDd, you can call me Efe.
+
+I'm from Turkey and I live there. 
+I'm a software developer and part-time car tuner, remapper. I have 4+ years of experience in both fields.
+As can be understood from my works, I'm interested in cars, car tuning and software development.
 
 <!--
 **DmoRDd/DmoRDd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
