@@ -1,8 +1,16 @@
-## Hi there! I'm DmoRDd, you can call me Efe.
-
-I'm from Turkey and I live there. 
-I'm a software developer and part-time car tuner, remapper. I have 4+ years of experience in both fields.
+# Hi there! I'm DmoRDd, or you can call me Efe.
+<img width="500" height="99" alt="drecuhq-removebg-preview2" src="https://github.com/user-attachments/assets/7a736291-f25d-402f-bdb0-9acfc31644fb" /> <br>
+## Who Am I???
+I'm from Turkey<sup>:tr:</sup> and I live there. <br>
+I'm a software developer and part-time car tuner, remapper. **I have _4+ years of experience_ in both fields.** <br>
 As can be understood from my works, I'm interested in cars, car tuning and software development.
+
+## It's Important
+I'm in love with C<sub>17</sub>H<sub>19</sub>NO<sub>3</sub> and C<sub>25</sub>H<sub>33</sub>NO<sub>4</sub>.
+
+> [!CAUTION]
+> I do not recommend using such substances. Don't use them please.
+
 
 <!--
 **DmoRDd/DmoRDd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
