@@ -5,9 +5,6 @@ I'm from Turkey<sup>:tr:</sup> and I live there. <br>
 I'm a software developer and part-time car tuner, remapper. **I have _4+ years of experience_ in both fields.** <br>
 As can be understood from my works, I'm interested in cars, car tuning and software development.
 
-## It's Important
-I'm addicted to C<sub>17</sub>H<sub>19</sub>NO<sub>3</sub> and C<sub>25</sub>H<sub>33</sub>NO<sub>4</sub>.
-
 > [!CAUTION]
 > ...
 
