@@ -9,7 +9,7 @@ As can be understood from my works, I'm interested in cars, car tuning and softw
 I'm addicted to C<sub>17</sub>H<sub>19</sub>NO<sub>3</sub> and C<sub>25</sub>H<sub>33</sub>NO<sub>4</sub>.
 
 > [!CAUTION]
-> I do not recommend using such substances. Don't use them please.
+> ...
 
 
 <!--
