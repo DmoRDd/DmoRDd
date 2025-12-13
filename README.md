@@ -1,9 +1,9 @@
-# Hi there! I'm DmoRDd, or you can call me Efe.
+# Hi there! I'm DmoRDd.
 <img width="500" height="99" alt="drecuhq-removebg-preview2" src="https://github.com/user-attachments/assets/7a736291-f25d-402f-bdb0-9acfc31644fb" /> <br>
 ## Who Am I???
 I'm from Turkey<sup>:tr:</sup> and I live there. <br>
-I'm a software developer and part-time car tuner, remapper. **I have _4+ years of experience_ in both fields.** <br>
-As can be understood from my works, I'm interested in cars, car tuning and software development.
+I'm a software developer and part-time car tuner, remapper.<br>
+I'm interested in cars, car tuning and software development.
 
 > [!CAUTION]
 > ...
